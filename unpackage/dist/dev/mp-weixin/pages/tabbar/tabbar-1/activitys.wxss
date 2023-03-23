@@ -1,0 +1,40 @@
+
+.activity {
+	width: 100%;
+	text-align: center;
+	margin-top: 50rpx;
+}
+.zlzimg {
+	height: 380rpx;
+	background-color: aquamarine;
+	width: 100%;
+}
+.uni-margin-wrap {
+	width: 100%;
+}
+.swiper {
+	height: 380rpx;
+}
+.swiper-item {
+	display: block;
+	height: 380rpx;
+	line-height: 380rpx;
+	text-align: center;
+}
+.swiper-list {
+	margin-top: 40rpx;
+	margin-bottom: 0;
+}
+.uni-common-mt {
+	margin-top: 60rpx;
+	position: relative;
+}
+.info {
+	position: absolute;
+	right: 20rpx;
+}
+.uni-padding-wrap {
+	width: 550rpx;
+	padding: 0 100rpx;
+}
+

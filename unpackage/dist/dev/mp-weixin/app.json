@@ -1,0 +1,40 @@
+{
+  "pages": [
+    "pages/tabbar/tabbar-1/activitys",
+    "pages/tabbar/tabbar-2/student",
+    "pages/tabbar/tabbar-3/lovevideo",
+    "pages/detial/studentDetial/studentDetial",
+    "pages/detial/activityDetial/activityDetial"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "borderStyle": "black",
+    "backgroundColor": "#333",
+    "color": "#8F8F94",
+    "selectedColor": "#f33e54",
+    "list": [
+      {
+        "pagePath": "pages/tabbar/tabbar-1/activitys",
+        "iconPath": "static/img/tabbar/home.png",
+        "selectedIconPath": "static/img/tabbar/homeactive.png"
+      },
+      {
+        "pagePath": "pages/tabbar/tabbar-2/student",
+        "iconPath": "static/img/tabbar/guanzhu.png",
+        "selectedIconPath": "static/img/tabbar/guanzhuactive.png"
+      },
+      {
+        "pagePath": "pages/tabbar/tabbar-3/lovevideo",
+        "iconPath": "static/img/tabbar/me.png",
+        "selectedIconPath": "static/img/tabbar/meactive.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}
